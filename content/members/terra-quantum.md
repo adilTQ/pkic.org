@@ -8,13 +8,9 @@ title: Terra Quantum
 
 ## Quantum is Now
 
-Terra Quantum is a leading quantum technology company based in Germany and Switzerland. It provides "Quantum as a Service (QaaS)“ in three core areas:
-- the first one being "Quantum Algorithms as a Service". Here, customers are provided access to an extensive library of algorithms, such as hybrid quantum optimization and hybrid quantum neural networks, which can be used for solving complex logistics problems or pattern recognition, among other things. Terra Quantum also develops new quantum algorithms for its customers or adapts existing algorithms to their specific needs.
-- Secondly, through "Quantum Computing as a Service", Terra Quantum offers its customers access to its proprietary high-performance simulated quantum processing units (QPU), the quantum ecosystem’s physical QPUs, while also developing native QPUs.
-- The third division is "Quantum Security as a Service," through which Terra Quantum offers its unique solutions for secure quantum and post-quantum communications worldwide.
+Terra Quantum is a leading quantum technology company based in Germany and Switzerland, offering quantum solutions engineered for real-world impact. We empower industry and government partners with three core offerings:
+- **Quantum Software as a Service**: Our robust software suite spans quantum AI, hybrid-quantum optimization, physics-driven AI for computational chemistry, and more—all delivered through TQ42, our enterprise-grade quantum ecosystem. This platform makes advanced quantum tools easily accessible and deployable, enabling customers to solve complex, high-value problems.
+- **Quantum Computing as a Service**: We provide immediate access to high-performance simulated quantum processing units (QPUs) as well as physical QPUs from the quantum ecosystem, while continuously advancing new qubit technology.
+- **Quantum Security as a Service**: Our security solutions leverage state-of-the-art post-quantum cryptographic systems and quantum key distribution protocols to safeguard data in motion and at rest. Offerings such as the Terra Quantum Secure Network and our NIST-validated cryptographic libraries are designed for scalability and seamless integration with existing networks, delivering a resilient defense against cyber threats while meeting rigorous international standards.
 
-At Terra Quantum, we are committed to building quantum technology for a better future, breaking down the barriers between science and industry, and laying the foundations of a real quantum tech ecosystem and value chain.
-
-We value the intrinsic connection between our planet and quantum technologies, putting sustainability at the core of our business and culture.
-
-Standing at the very beginning of this revolution we feel the excitement – and responsibility – for the applications and tools we are developing.
+At Terra Quantum, our mission is to bridge the gap between breakthrough quantum research and practical, market-ready solutions. We focus on making our technology easily deployable through interoperable tools, so organizations can rapidly integrate quantum advancements into their security, computing, and business performance strategies.
